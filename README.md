@@ -43,7 +43,7 @@ Você pode explorar todos os artefatos desenvolvidos para o projeto através dos
 
 <div align="center">
 
-**PROG1 — Atividade 4 | Engenharia de Software**  
+**PROGRAMAÇÃO 1 | Engenharia de Software | Banco de Dados**  
 Feito com 💖 e muita linha de código.
 
 </div>
