@@ -28,7 +28,7 @@ Você pode explorar todos os artefatos desenvolvidos para o projeto através dos
 * 🧩 **[Diagrama UML de Classes](https://github.com/Camscaca-dev/prog1.tri2.ativ4/blob/main/umlclasse.png)** — Modelagem estrutural do sistema.
 * 🔐 **[Telas de Cadastro e Login](https://github.com/Camscaca-dev/prog1.tri2.ativ4/blob/main/cadastro%20e%20login.png)** — Esboço inicial das telas de autenticação.
 * 🎨 **[Mockup do Projeto](https://app.moqups.com/dANmbJvWfljFyLejhYIpn1phtyuILCdl/view/page/a5bb8063d)** — Protótipo interativo das interfaces.
-* 💻 **Repositório do Site:** *Em breve*
+* 💻 **[Repositório do desenvolvimento do Site](https://github.com/BrunaScv/BruniBolo---code)**
 
 ---
 
