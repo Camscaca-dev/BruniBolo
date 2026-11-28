@@ -14,7 +14,7 @@
 
 ## 📖 Sobre o Projeto
 
-Bem-vindo(a) ao **BruniBolo**! Este é um projeto acadêmico desenvolvido no âmbito da disciplina de **Programação 1** e **Engenharia de Software**. 
+Bem-vindo(a) ao **BruniBolo**! Este é um projeto acadêmico desenvolvido no âmbito da disciplina de **Programação 1**, **Banco de dados** e **Engenharia de Software**. 
 
 A proposta une a paixão pela confeitaria com a lógica de programação e modelagem de sistemas, englobando desde a documentação inicial e diagramas UML até a prototipagem de interfaces de usuário.
 
